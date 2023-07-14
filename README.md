@@ -1,5 +1,5 @@
 # willseyetal2022
-Contains the code defining the temporally-convolved feedforward neural network used in Willsey et al. 2022 (Nat Comms).
+Contains the code defining the temporally-convolved feedforward neural network used in Willsey et al. 2022 (Nat Comms). The network is constructed using modules from the pytorch library.
 
 The neural network is initialized as follows:
 
